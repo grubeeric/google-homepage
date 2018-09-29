@@ -1,0 +1,31 @@
+.SearchInput {
+    width: 584px;
+    height: 44px;
+    display: flex;
+    border-radius: 2px;
+    border: none;
+    box-shadow: 0 2px 2px 0, 0 0 0 1px;
+    z-index: 3;
+    margin: 0 auto;
+}
+
+.SearchButton {
+    height: 36px;
+    line-height: 27px;
+    background-color: f2f2f2;
+    border: 1px solid;
+    border-radius: 2px;
+    color: 757575;
+    cursor: default;
+    font-size: 13px;
+    font-weight: bold;
+    margin: 11px 4px;
+    min-width: 54px;
+    padding: 0 16px;
+    text-align: center;
+    box-sizing: border-box;
+    white-space: pre;
+    align-items: flex-start;
+    font: 400 11px system-ui;
+    -webkit-appearance: push-button;
+}
